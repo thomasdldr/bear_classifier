@@ -6,4 +6,4 @@ In *bear_classifier_deployment.ipynb*, you will find the code that builds an app
 
 To access the app without the code, please click on the link below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thomasdlr/bear_classifier/main?labpath=%2Fvoila%2Frender%2Fbear_classifier_deployment.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thomasdlr/bear_classifier/main?urlpath=%2Fvoila%2Frender%2Fbear_classifier_deployment.ipynb)
